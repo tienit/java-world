@@ -1,0 +1,24 @@
+﻿* Tên wifi: Stanford201
+- Mật khẩu Wifi: Stanford@201
+*Địa chỉ IP server của Stanford: (Nhấn phím Windows + R)
+\\192.168.1.200
+
+* Tên wifi: Stanford - Day lap trinh
+- Mật khẩu wifi: Stanford@2013
+
+Tài khoản: hocvien
+Mật khẩu: 123456
+*************************************************
+*Thư mục lấy bộ cài:
+\\192.168.1.200\Programs\Java developer tools
+
++ Eclipse, NetBean(8.1): Công cụ để phát triển phần mềm
++ SVN: Công cụ quản lý source code
+	- Windows 64 bit: TortoiseSVN-1.9.3.27038-x64-svn-1.9.3.msi
+	- Windows 32 bit: TortoiseSVN-1.9.3.27038-win32-svn-1.9.3.msi
++ Notepad++
+
+*Địa chỉ lấy tài liệu và source code:
++ LAN:
+https://192.168.1.200:8443/svn/A031701CB-YC
+
