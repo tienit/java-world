@@ -22,12 +22,12 @@ namespace OOP_Lession_001
             return "Cats run fast.";
         }
 
-        protected override string Get_Declaration()
+        public override string Get_Declaration()
         {
             return "Cat are mammals.";
         }
 
-        protected override int Get_Number_Of_Legs()
+        public override int Get_Number_Of_Legs()
         {
             return 4;
         }

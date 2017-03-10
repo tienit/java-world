@@ -6,3 +6,11 @@ c:\users\tienit\documents\visual studio 2015\Projects\OOP_Lession_001\OOP_Lessio
 c:\users\tienit\documents\visual studio 2015\Projects\OOP_Lession_001\OOP_Lession_001\obj\Debug\OOP_Lession_001.csproj.GenerateResource.Cache
 c:\users\tienit\documents\visual studio 2015\Projects\OOP_Lession_001\OOP_Lession_001\obj\Debug\OOP_Lession_001.exe
 c:\users\tienit\documents\visual studio 2015\Projects\OOP_Lession_001\OOP_Lession_001\obj\Debug\OOP_Lession_001.pdb
+C:\DNN\Java\Document\OOP\OOP_Lession_001\OOP_Lession_001\obj\Debug\OOP_Lession_001.exe
+C:\DNN\Java\Document\OOP\OOP_Lession_001\OOP_Lession_001\obj\Debug\OOP_Lession_001.pdb
+C:\DNN\Java\Document\OOP\OOP_Lession_001\OOP_Lession_001\bin\Debug\OOP_Lession_001.exe
+C:\DNN\Java\Document\OOP\OOP_Lession_001\OOP_Lession_001\bin\Debug\OOP_Lession_001.pdb
+C:\DNN\Java\Document\OOP\OOP_Lession_001\OOP_Lession_001\obj\Debug\OOP_Lession_001.frmMain.resources
+C:\DNN\Java\Document\OOP\OOP_Lession_001\OOP_Lession_001\obj\Debug\OOP_Lession_001.Properties.Resources.resources
+C:\DNN\Java\Document\OOP\OOP_Lession_001\OOP_Lession_001\obj\Debug\OOP_Lession_001.csproj.GenerateResource.Cache
+C:\DNN\Java\Document\OOP\OOP_Lession_001\OOP_Lession_001\obj\Debug\OOP_Lession_001.csprojResolveAssemblyReference.cache

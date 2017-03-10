@@ -50,9 +50,9 @@ namespace OOP_Lession_001
             }
         }
 
-        protected abstract int Get_Number_Of_Legs();
+        public abstract int Get_Number_Of_Legs();
 
-        protected abstract string Get_Declaration();
+        public abstract string Get_Declaration();
 
         protected virtual string Get_Remark()
         { return "Animal"; }

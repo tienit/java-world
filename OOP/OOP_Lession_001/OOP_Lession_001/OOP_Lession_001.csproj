@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractAnimal.cs" />
+    <Compile Include="AbstractVehicle.cs" />
     <Compile Include="Birds.cs" />
     <Compile Include="Cats.cs" />
     <Compile Include="IClimbable.cs" />
@@ -58,6 +59,7 @@
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
     <Compile Include="IRunnable.cs" />
+    <Compile Include="Plane.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmMain.resx">

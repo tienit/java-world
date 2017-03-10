@@ -22,12 +22,12 @@ namespace OOP_Lession_001
             return "Birds can also run.";
         }
 
-        protected override string Get_Declaration()
+        public override string Get_Declaration()
         {
             return "Birds are symbols of peace.";
         }
 
-        protected override int Get_Number_Of_Legs()
+        public override int Get_Number_Of_Legs()
         {
             return 2;
         }

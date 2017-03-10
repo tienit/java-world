@@ -7,12 +7,12 @@ namespace OOP_Lession_001
 {
     class Dogs : AbstractAnimal, IRunnable, IEatable
     {
-        protected override string Get_Declaration()
+        public override string Get_Declaration()
         {
             return "Dogs are loyal animals.";
         }
 
-        protected override int Get_Number_Of_Legs()
+        public override int Get_Number_Of_Legs()
         {
             return 4;
         }
