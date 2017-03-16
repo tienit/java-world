@@ -1,0 +1,8 @@
+C:\DNN\Java\Document\FactoryPattern\Singleton\SingletonAllType\SingletonAllType\bin\Debug\SingletonAllType.exe
+C:\DNN\Java\Document\FactoryPattern\Singleton\SingletonAllType\SingletonAllType\bin\Debug\SingletonAllType.pdb
+C:\DNN\Java\Document\FactoryPattern\Singleton\SingletonAllType\SingletonAllType\obj\Debug\SingletonAllType.Properties.Resources.resources
+C:\DNN\Java\Document\FactoryPattern\Singleton\SingletonAllType\SingletonAllType\obj\Debug\SingletonAllType.csproj.GenerateResource.Cache
+C:\DNN\Java\Document\FactoryPattern\Singleton\SingletonAllType\SingletonAllType\obj\Debug\SingletonAllType.exe
+C:\DNN\Java\Document\FactoryPattern\Singleton\SingletonAllType\SingletonAllType\obj\Debug\SingletonAllType.pdb
+C:\DNN\Java\Document\FactoryPattern\Singleton\SingletonAllType\SingletonAllType\obj\Debug\SingletonAllType.frmMain.resources
+C:\DNN\Java\Document\FactoryPattern\Singleton\SingletonAllType\SingletonAllType\obj\Debug\SingletonAllType.frmPic.resources
