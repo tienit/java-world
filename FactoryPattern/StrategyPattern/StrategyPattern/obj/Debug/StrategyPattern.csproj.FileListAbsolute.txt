@@ -1,0 +1,8 @@
+C:\DNN\Java\Document\FactoryPattern\Singleton\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\DNN\Java\Document\FactoryPattern\Singleton\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\DNN\Java\Document\FactoryPattern\Singleton\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\DNN\Java\Document\FactoryPattern\Singleton\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.frmMain.resources
+C:\DNN\Java\Document\FactoryPattern\Singleton\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+C:\DNN\Java\Document\FactoryPattern\Singleton\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.Cache
+C:\DNN\Java\Document\FactoryPattern\Singleton\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\DNN\Java\Document\FactoryPattern\Singleton\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
