@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package adapterpattern;
+package facadepattern;
 
 /**
  *
  * @author TIENIT
  */
-public class AdapterPattern {
+public class FacadePattern {
 
     /**
      * @param args the command line arguments
@@ -17,14 +17,12 @@ public class AdapterPattern {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        AceClass aceObject = new AceClass();
-        aceObject.setName("Nguyen Tien");
+        SimpleProductFacade facade = new SimpleProductFacade();
         
-        AceToAcmeAdapter adapter = new AceToAcmeAdapter(aceObject);
+        facade.setName("Printer");
         
-        System.out.println("Customer's first name: " + adapter.getFirstName());
-        System.out.println("Customer's last name: " + adapter.getLastName());
-         
+        System.out.println("This is a " + facade.getName());
+        
     }
     
 }
