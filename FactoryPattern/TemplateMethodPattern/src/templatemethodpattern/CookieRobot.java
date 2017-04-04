@@ -36,4 +36,9 @@ public class CookieRobot extends RobotTemplate {
         System.out.println("Crunching a cookie ...");
     }
     
+    @Override
+    public boolean testOK () {
+        return false;
+    }
+    
 }

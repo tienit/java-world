@@ -15,7 +15,9 @@ public abstract class RobotTemplate {
         start();
         getParts();
         assemble();
-        test();
+        if (testOK()) {
+            test();
+        }
         stop();
     }
     
@@ -37,6 +39,10 @@ public abstract class RobotTemplate {
     
     public void stop() {
         System.out.println("Stopping ...");
+    }
+    
+    public boolean testOK() {
+        return true;
     }
     
 }
